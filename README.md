@@ -1,4 +1,4 @@
-## Pixeldrain Bypass Limit Enhanced — ZIP & Gallery Support
+## Pixeldrain Bypass Limit Enhanced
 
 **Description**  
 Bypass Pixeldrain download limits using multi-proxy API support (cached 24h). Supports individual file downloads, gallery downloads, and ZIP downloads for entire galleries. Adds vertical **Download DL all files** and **Show DL all files** buttons on gallery pages. Bypass links open in new tabs and can be copied or saved as text files.
