@@ -1,5 +1,8 @@
 ## Pixeldrain Bypass Limit Enhanced
 
+### Install
+You can install the extension using this [link](https://github.com/gamedriveorg/Pixeldrain-Download-Limit-Enhanced/raw/refs/heads/main/bypass_script.user.js)
+
 **Description**  
 Bypass Pixeldrain download limits using multi-proxy API support (cached 24h). Supports individual file downloads, gallery downloads, and ZIP downloads for entire galleries. Adds vertical **Download DL all files** and **Show DL all files** buttons on gallery pages. Bypass links open in new tabs and can be copied or saved as text files.
 
